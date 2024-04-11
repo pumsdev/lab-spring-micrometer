@@ -1,3 +1,10 @@
+# About this project
+This project use for setting up lab for test using Spring Micrometer to 
+produce application metrics and use Prometheus for collector metrics and 
+visualize in Grafana
+
+
+additional: use Conduktor for connect to Kafka 
 # Note
 please replace this before run project
 ```sh
